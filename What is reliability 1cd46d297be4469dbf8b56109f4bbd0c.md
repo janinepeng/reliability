@@ -1,19 +1,15 @@
-# What is reliability?
+# Practical Reliability Engineering Study Notes
 
-Owner: Jing Peng
-Tags: Guides and Processes
-
-<aside>
-💡 Use this template to create guidelines for all of the engineers on your team. Add a table of contents by typing `/table of` and pressing `enter`.
-
-</aside>
-
-# What is reliability engineering?
+## Chapter 1
 
 <aside>
 💡 Reliability engineering is first and foremost the application of good engineering, in the widest sense, during design, development, manufacture and service
 
 </aside>
+
+## What is reliability engineering?
+
+
 
 - Reliability - **The probability** that an item will **perform a required function without failures** **under stated conditions** **for a stated period of time**.
     - A time-based/dependent concept of quality
